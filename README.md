@@ -13,4 +13,4 @@ You can reach out to me on:
 
 | Contest | Ranking | Report |
 | - | :-: | :-: |
-| [Password-Store](https://github.com/Cyfrin/2023-10-PasswordStore) | - | [📄](code4rena/2024-03-gitcoin.md) |
+| [Password-Store](https://github.com/Cyfrin/2023-10-PasswordStore) | - | [📄](CodeHawks/2024-08-14-password-store.pdf.md) |
